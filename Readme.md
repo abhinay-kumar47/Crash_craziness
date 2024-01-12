@@ -25,10 +25,9 @@ Before you begin, ensure you have the following software installed:
 
 1. Clone the repository:
     
-    ```bash
-    git clone https://github.com/your-username/your-game-repo.git
+   
+    git clone https://github.com/abhinay-kumar47/Crash_craziness.git
     
-    ```
     
 2. Open the project in Unity.
 3. Set up the game environment and configure any necessary settings.
