@@ -12,6 +12,12 @@ Welcome to Crash Craziness! This Unity game project challenges players to naviga
 
 **Crash Craziness** is an exciting Unity game where players navigate a challenging road filled with obstacles. The goal is to reach the other end while collecting coins and energy bars to maximize their score. Hitting obstacles decreases the score, making the game a thrilling test of skill and precision.
 
+![Screenshot (434)](https://github.com/abhinay-techx/Crash_craziness/assets/101319759/a4fd4a84-691b-4a59-a919-d4574523b4cb)
+![Screenshot (436)](https://github.com/abhinay-techx/Crash_craziness/assets/101319759/35834910-9120-4835-be6b-b52a57657bb2)
+![Screenshot (437)](https://github.com/abhinay-techx/Crash_craziness/assets/101319759/a10e6ec9-a729-46c8-ae2f-be5e40887661)
+![Screenshot (438)](https://github.com/abhinay-techx/Crash_craziness/assets/101319759/8423ddac-6284-4be7-9099-d9ad1d5f1917)
+
+
 ### Getting Started
 
 ### Prerequisites
@@ -26,7 +32,7 @@ Before you begin, ensure you have the following software installed:
 1. Clone the repository:
     
    
-    git clone https://github.com/abhinay-kumar47/Crash_craziness.git
+    git clone https://github.com/abhinay-techx/Crash_craziness.git
     
     
 2. Open the project in Unity.
